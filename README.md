@@ -1,8 +1,10 @@
 # HEVO
 HyperCube Parts
 
-Additional part for [HyperCube Evolution](https://www.thingiverse.com/thing:1178406) and [Ultimaker Clone](https://www.thingiverse.com/thing:1178406)
+Additional part for [HyperCube Evolution](https://www.thingiverse.com/thing:2254103) and [Ultimaker Clone](https://www.thingiverse.com/thing:811271)
 
-I initialy started with Ultimaker Clone, but corexy seemed much nicer in the end so i have adopted hypercube, and this are some of the parts to make that transition nicer.
+I initialy started with Ultimaker Clone 3d printer. But after some time corexy was getting much better adoption, and HyperCube is really a nice machine. So in the middle of project i have switched to HyperCube CoreXY printer. Here you can find some of the parts i have changed/remixed or modeled from scratch so this machine would be what it is today.
 
 ![ultimaker hypercube](https://raw.githubusercontent.com/dejanr/HEVO/master/ulti-hypercube.jpg)
+
+I would try to put some more photos of build here [https://goo.gl/photos/ApkFNsS3tKgzKEg47](https://goo.gl/photos/ApkFNsS3tKgzKEg47)
